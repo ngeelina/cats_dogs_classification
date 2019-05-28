@@ -1,2 +1,2 @@
-# cats_dogs_classification
+# Cats & Dogs classification
 Binary classification
